@@ -259,12 +259,12 @@ Real-time overview of license position, costs, ETL status and optimisation oppor
 <th>Annual Cost</th>
 </tr>
 
-<tr><td>MoJ</td><td>£95,000</td></tr>
-<tr><td>LAA</td><td>£3,000,000</td></tr>
-<tr><td>HMCTS</td><td>£3,600,000</td></tr>
-<tr><td>HMPPS</td><td>£78,000</td></tr>
-<tr><td>DCA</td><td>£1,200,000</td></tr>
-<tr><td>CICA</td><td>£4,600,000</td></tr>
+<tr><td>A</td><td>£95,000</td></tr>
+<tr><td>B</td><td>£3,000,000</td></tr>
+<tr><td>C</td><td>£3,600,000</td></tr>
+<tr><td>D</td><td>£78,000</td></tr>
+<tr><td>E</td><td>£1,200,000</td></tr>
+<tr><td>F</td><td>£4,600,000</td></tr>
 
 </table>
 
